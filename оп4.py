@@ -1,12 +1,11 @@
 store = {
-    'apple': 15.85,
-    'banana': 202,
-    'cheese': 320,
-    'milk': 35.25,
-    'carrot': 89.9,
+    'apple': 16.5,
+    'egg': 223,
+    'milk': 32,
+    'potato': 33.2,
+    'carrot': 34.1,
     'tomato': 18,
-    'meat': 250,
-    'juice': 61
+    'meat': 225
 }
 
 
