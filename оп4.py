@@ -58,9 +58,9 @@ def main():
         else:
             print("Невірний вибір, спробуй ще раз.")
         
-    else:
-      if choice == "3"
-    break
+        else:
+          if choice == "3"
+          break
 
 if __name__ == "__main__":
     main()
