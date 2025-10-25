@@ -39,7 +39,7 @@ def order(products):
 
 def main():
     while True:
-        print("1 - Переглянути ціну\n2 - Купити")
+        print("1 - Переглянути ціну\n2 - Купити\n3 - Вийти з магазину")
         choice = input("Your choice: ")
 
         user_input = input("Введи товари через пробіл: ")
@@ -57,7 +57,10 @@ def main():
             print(order(products))
         else:
             print("Невірний вибір, спробуй ще раз.")
-
+        
+else:
+     if choice == "3"
+    break
 
 if __name__ == "__main__":
     main()
