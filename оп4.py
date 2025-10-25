@@ -58,7 +58,7 @@ def main():
         else:
             print("Невірний вибір, спробуй ще раз.")
             
-        if choice == "3"
+        if choice == "3":
     break
 
 if __name__ == "__main__":
