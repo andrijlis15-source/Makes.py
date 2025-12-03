@@ -20,10 +20,11 @@ def count_pairs(filename, pairs):
 
 
 def main():
-    FILE = "text.txt"
-    PAIRS = ['ab', 'te', 'ro']  # 🔄 нові пари букв
+    FILE = "laba9/text.txt"
+    PAIRS = ['su', 'on', 'ps']
+    result = count_pairs(FILE, PAIRS)
 
-    for i, res in enumerate(count_pairs(FILE, PAIRS), start=1):
+    for i, res in enumerate(result, start=1):
         print(f"Рядок №{i}: {res}")
 
 
